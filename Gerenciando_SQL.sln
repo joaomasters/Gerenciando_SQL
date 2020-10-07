@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gerenciando_SQL_Server_Compact_4", "Gerenciando_SQL_Server_Compact_4\Gerenciando_SQL_Server_Compact_4.csproj", "{7D13E6FE-D2B7-4D13-89C9-7E401ED1842B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D13E6FE-D2B7-4D13-89C9-7E401ED1842B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D13E6FE-D2B7-4D13-89C9-7E401ED1842B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D13E6FE-D2B7-4D13-89C9-7E401ED1842B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D13E6FE-D2B7-4D13-89C9-7E401ED1842B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
